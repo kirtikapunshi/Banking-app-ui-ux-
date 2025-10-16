@@ -1,1 +1,1 @@
-# Banking-app-ui-ux-
+This project is a Banking App prototype designed in Figma following Human-Computer Interaction (HCI) principles. The design focuses on a clean layout, smooth navigation, and user-friendly experience. It includes essential screens like login, dashboard, transactions, and profile, ensuring easy access and clear usability. The interface is modern, accessible, and ready for developer handoff.
